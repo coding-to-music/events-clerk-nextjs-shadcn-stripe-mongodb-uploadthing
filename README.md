@@ -1,6 +1,6 @@
 # events-clerk-nextjs-shadcn-stripe-mongodb-uploadthing
 
-# 🚀 🚀
+# 🚀 Next.js 14 Event scheduler using Clerk for users and roles with CRUD using MongoDB and Stripe for payments and Shadcn for UI 🚀
 
 https://github.com/coding-to-music/events-clerk-nextjs-shadcn-stripe-mongodb-uploadthing
 
